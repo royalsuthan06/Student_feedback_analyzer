@@ -1,0 +1,6 @@
+{
+  "name": "FeedbackLens AI",
+  "description": "AI-Powered Student Feedback Analyzer converting raw responses into sentiment metrics, semantic issue clusters, and actionable insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
